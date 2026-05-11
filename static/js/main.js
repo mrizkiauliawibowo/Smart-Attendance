@@ -1,10 +1,9 @@
 /**
  * Smart Attendance & Productivity Tracker — Main JavaScript
- * =========================================================
  * Handles all client-side logic: API calls, UI updates, modals, export CSV.
  *
- * Author  : [Nama Anda]
- * Course  : Komputasi Awan - Telkom University
+ * Author : Rizki (M.Rizki Aulia Wibowo)
+ * Course : Komputasi Awan - Telkom University
  */
 
 'use strict';

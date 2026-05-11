@@ -4,7 +4,8 @@ Aplikasi web full-stack berbasis **Python Flask** + **PostgreSQL** untuk pencata
 
 **Mata Kuliah:** Komputasi Awan  
 **Platform Target:** PaaS (Railway.app)  
-**Stack:** Flask · PostgreSQL · SQLAlchemy · Bootstrap 5 · Gunicorn
+**Stack:** Flask · PostgreSQL · SQLAlchemy · Bootstrap 5 · Gunicorn  
+**Author:** M.Rizki Aulia Wibowo
 
 ---
 
@@ -194,7 +195,7 @@ curl -X POST https://nama-app.up.railway.app/api/users \
 ```bash
 curl -X POST http://localhost:5000/api/users \
   -H "Content-Type: application/json" \
-  -d '{"name": "Budi Santoso", "email": "budi@student.ac.id", "role": "mahasiswa"}'
+  -d '{"name": "M.Rizki Aulia Wibowo", "email": "rizki@student.ac.id", "role": "mahasiswa"}'
 ```
 
 **POST /api/attendance**
